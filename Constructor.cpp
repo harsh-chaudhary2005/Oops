@@ -26,6 +26,7 @@ public:
     double getSalary(){
         return salary;
     }
+
 };
 int main(){
   Teacher t1; //Constructor Call
